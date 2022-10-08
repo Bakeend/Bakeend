@@ -25,7 +25,6 @@
   
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/5063q77NDAwphFeU48o3RSmxRZGEZChcc1mnSA2E7LM/%3Fsize%3D2048/https/cdn.discordapp.com/icons/932679924379160597/e1bc4ddb0d148360397e75b394d000a9.png?width=468&height=468">
 </div>
