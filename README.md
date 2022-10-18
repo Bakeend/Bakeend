@@ -34,7 +34,7 @@ href='https://www.linkedin.com/in/cl%C3%A1udio-vin%C3%ADcius-7b30b6253'
 target="_blank">
 <img src='https://skillicons.dev/icons?i=linkedin'
 <a
-href='hhttps://www.github.com/Bakeend'
+href='https://github.com/Bakeend'
 target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
   </a>
