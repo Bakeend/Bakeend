@@ -2,9 +2,9 @@
 
 
 - 👨‍💻 Eu sou Bakeend
-- 🌱 Sou estudando de Game-Dev
-- 📠 Fundador da Disky Lab
-- ⚡ Bora Programar!
+- 🌱 Estudante Game-Dev, Back-End e Desenvolvedor de Software 
+- 📠 Ceo da Disky Lab
+
 
 <h4 align="center">Linguagens / Tecnologias</h4>
 <p align="center">
