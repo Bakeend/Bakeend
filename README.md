@@ -1,15 +1,15 @@
-### Bem Vindo, eu sou Bakeend 👋
+### Bem-Vindo, eu sou Bakeend 👋
 
 
-- 👨‍💻 Eu sou Bakeend
-- 🌱 Estudante Game-Dev, Back-End e Desenvolvedor de Software 
-- 📠 Ceo da Disky Lab
+- 👨‍💻 Eu sou Bakeend;
+- 🌱 Desenvolvedor De Jogos e Back-End;
+- 📠 "Brilho das estrelas é indescritível";
 
 
 <h4 align="center">Linguagens / Tecnologias</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=cs,dotnet,java,spring,lua,mysql'/>
+    <img src='https://skillicons.dev/icons?i=cs,dotnet,lua,mysql'/>
   </a>
   
 <h5 align="center">Programas</h4>
