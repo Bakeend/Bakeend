@@ -44,7 +44,7 @@ target="_blank">
 </p>
  
 </p>
-<br><br/>
+<!-- <br><br/> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=true&amp;username=Bakeend" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=true&amp;username=Bakeend" />
@@ -55,5 +55,5 @@ target="_blank">
 </div>
 
 </div>
-  
+-->
 
