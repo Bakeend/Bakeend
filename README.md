@@ -3,7 +3,7 @@
 
 - 👨‍💻 Eu sou Bakeend;
 - 🌱 Desenvolvedor De Jogos e Back-End;
-- 📠 "Brilho das estrelas é indescritível";
+- 📠 "Brilho da lua é indescritível";
 
 
 <h4 align="center">Linguagens / Tecnologias</h4>
