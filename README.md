@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  🧠 Desenvolvedor focado em <strong>Back-End</strong> e <strong>Jogos</strong>, apaixonado por redes, servidores e desempenho.<br>
-  💬 Sempre explorando novas tecnologias.
+  🧠 Programador focado em <strong>Back-End</strong> e <strong>Jogos</strong>, apaixonado por redes, servidores e desempenho.<br>
+  💬 Sempre em busca de evoluir.
 </p>
 
 <p align="center">
@@ -66,4 +66,4 @@
 
 ---
 
-<h4 align="center">"🚀"</h4>
+<h4 align="center">🚀</h4>
