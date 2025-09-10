@@ -18,7 +18,7 @@
 <h4 align="center">🛠️ Linguagens</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=cs,dotnet,lua'/>
+    <img src='https://skillicons.dev/icons?i=cs,lua'/>
   </a>
 </p>
 
