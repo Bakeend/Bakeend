@@ -15,10 +15,10 @@
 
 ---
 
-<h4 align="center">🛠️ Linguagens / Tecnologias</h4>
+<h4 align="center">🛠️ Linguagens</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=cs,dotnet,lua,mysql'/>
+    <img src='https://skillicons.dev/icons?i=cs,dotnet,lua'/>
   </a>
 </p>
 
