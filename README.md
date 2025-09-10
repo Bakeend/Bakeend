@@ -25,7 +25,7 @@
 <h4 align="center">📚 Estudando</h4>
 <p align="center">
   <a href='https://skillicons.dev'>
-    <img src='https://skillicons.dev/icons?i=powershell,python,ts'/>
+    <img src='https://skillicons.dev/icons?i=python,ts,java'/>
   </a>
 </p>
 
