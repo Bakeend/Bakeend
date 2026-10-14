@@ -1,4 +1,12 @@
-# Oi, eu sou o Bakeend 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=145&section=header&text=Bakeend&fontSize=53&fontColor=ffffff&animation=fadeIn" alt="Bakeend" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Construindo+apps+que+eu+queria+usar;Back-end%2C+redes+e+servidores;E+um+pouco+de+games+tamb%C3%A9m" alt="Apresentação animada" />
+</p>
+
+## Oi, eu sou o Bakeend 👋
 
 Estudo Ciência da Computação e gosto de entender como as coisas funcionam por trás da interface: regras de negócio, bancos de dados, APIs e servidores.
 
@@ -22,6 +30,13 @@ Boa parte do que faço começa com algo que eu mesmo queria usar. Foi assim que 
 | Atlas Finance | TypeScript, React, Vite, PWA e Capacitor para Android |
 | Nexo | React Native, Expo, TypeScript e SQLite; abordagem local-first |
 | Lume | Guias em Markdown e protocolos para orientar sessões de estudo com IA |
+
+</details>
+
+<details>
+<summary>📈 Atividade no GitHub</summary>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bakeend&theme=tokyo-night&hide_border=true" alt="Atividade pública no GitHub" />
 
 </details>
 
